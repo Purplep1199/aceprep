@@ -262,6 +262,11 @@ height:auto;
   bottom:0;
 }
 
+#blog footer{
+  bottom: 0;
+  position: relative;
+}
+
 /*header/footers link styles*/
 footer a, header a{
   color:#FFFFFA;
